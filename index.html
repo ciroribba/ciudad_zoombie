@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>    
+  <head>
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"/> -->
+    <!-- Incluir los archivos donde este guardado el estilo en formato css -->
+    <link rel="stylesheet" href="css/juego.css">   
+    <script src='js/inicio.js'> </script>    
+  </head>
+  <body>
+    <audio id="demo" source src="audio/ActionStrike.mp3" type="audio/mpeg" loop></audio>
+    <section id="cero" style="display: block">
+      <img src="imagenes/bienvenido.png" alt="Bienvenido al juego" ><br>
+      <button onclick="myFunction(1)" class="boton-recargar">Comenzar Partida</button>
+    </section>      
+    <section id="uno" style="display: none">
+      <img src="imagenes/Mensaje1.png" alt="mensaje 1"><br>
+      <button onclick="myFunction(2)" class="boton-recargar">Siguente</button>
+    </section>
+    <section id="dos" style="display: none">
+      <img src="imagenes/Mensaje2.png" alt="mensaje 2"><br>
+      <button onclick="myFunction(3)" class="boton-recargar">A por ellos :p</button>
+    </section>
+    <section id="tres" style="display: none">
+      <script src='js/resources.js'> </script>
+      <script src='js/jugador.js'> </script>
+      <script src='js/dibujante.js'> </script>
+      <script src='js/obstaculo.js'> </script>
+      <script src='js/enemigo.js'> </script>
+      <script src='js/zombie_caminante.js'> </script>
+      <script src='js/zombie_conductor.js'> </script>
+      <script id="sscript"></script>
+    </section>
+    <section id="cuatro" style="display: none">
+      <img src="imagenes/mensaje_gameover.png" alt="mensaje 1"><br>
+      <button onclick="window.location.reload()" class="boton-recargar">Volver a Jugar</button>
+    </section>
+    <section id="cinco" style="display: none">
+      <img src="imagenes/Splash.png" alt="mensaje 1"><br>
+      <button onclick="window.location.reload()" class="boton-recargar">Volver a Jugar</button>
+    </section>
+  </body>
+</html>
