@@ -12,6 +12,6 @@
 
 ◊ Aquí esta el demo --> [DEMO](https://ciroribba.github.io/ciudad_zoombie/)
 
-◊ Deberías ver lo siguiente: ![zoombie](https://github.com/ciroribba/portfolio/blob/main/demo3.png?raw=true "zoombies")
+◊ Deberías ver lo siguiente: ![zoombie](https://github.com/ciroribba/ciudad_zoombie/blob/main/imagenes/demoGame.png)
 
-
+❤ Muchas gracias por tu visita, y que no te alcancen los zoombies!!! Atrevete a jugar 😄
