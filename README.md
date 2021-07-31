@@ -1,6 +1,6 @@
 # Ciudad Zoombie
 
-◊ Proyectos de entretenimiento aplicando diseño y desarrollo web con JS.
+◊ Proyecto de entretenimiento aplicando diseño y desarrollo web con JS.
 
 ◊ El juego consiste en dirigir un automóvil desde una posicion inicial hasta una posición final usando las teclas de dirección. En el camino te puedes enfrentar a zoombis, un tren, y objetos en la calle, estos te haran perder vida. 
 
